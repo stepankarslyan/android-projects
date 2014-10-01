@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ArmenianSMS box</string>
+    <string name="intro">This is a Facebook like-styled Card. The header comprised with navigation menu item ,
+        the content shows an image and a text,
+        the footer tabbed menu. </string>
+    <string name="item_favorite">Favorite</string>
+    <string name="item_categories">Categories</string>
+    <string name="item_update">Update</string>
+    <string name="item_about">About</string>
+    <string name="item_share">Share</string>
+    <string name="item_exit">Exit</string>
+    <string name="title_activity_category_list">CategoryListActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

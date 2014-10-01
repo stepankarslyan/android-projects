@@ -1,0 +1,22 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:src="@drawable/background"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent">
+    </ImageView>
+
+    <TextView
+        android:text="@string/intro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#6B6D73"
+        android:textStyle="bold"
+        android:layout_margin="@dimen/activity_horizontal_margin"/>
+
+</LinearLayout>
